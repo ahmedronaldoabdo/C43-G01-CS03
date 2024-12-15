@@ -2,16 +2,16 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            #region value type
+            int x;
+            #endregion
+            #region refernece type
+
+            #endregion
         }
-        #region MyRegion
 
-        #endregion
-   
-        #region MyRegion2M
-
-        #endregion
     }
 }
